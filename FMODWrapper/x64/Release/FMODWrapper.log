@@ -1,0 +1,4 @@
+﻿  AudioManager.cpp
+C:\Users\gamba\Desktop\SoundProgrammingProjectGambarin\FMODWrapper\AudioManager.h(3,10): error C1083: Cannot open include file: 'fmod.hpp': No such file or directory
+  (compiling source file 'AudioManager.cpp')
+  

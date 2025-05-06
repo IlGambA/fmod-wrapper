@@ -1,0 +1,45 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FMODWrapper", "FMODWrapper\FMODWrapper.vcxproj", "{A1B2C3D4-E5F6-7890-ABCD-FE9876543210}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FMODDemo", "FMODDemo\FMODDemo.vcxproj", "{FEDCBA98-7654-3210-ABCD-0123456789EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1B2C3D4-E5F6-7890-ABCD-FE9876543210}.Debug|x64.ActiveCfg = Debug|x64
+		{A1B2C3D4-E5F6-7890-ABCD-FE9876543210}.Debug|x64.Build.0 = Debug|x64
+		{A1B2C3D4-E5F6-7890-ABCD-FE9876543210}.Release|x64.ActiveCfg = Release|x64
+		{A1B2C3D4-E5F6-7890-ABCD-FE9876543210}.Release|x64.Build.0 = Release|x64
+        {A1B2C3D4-E5F6-7890-ABCD-FE9876543210}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A1B2C3D4-E5F6-7890-ABCD-FE9876543210}.Debug|Win32.Build.0 = Debug|Win32
+		{A1B2C3D4-E5F6-7890-ABCD-FE9876543210}.Release|Win32.ActiveCfg = Release|Win32
+		{A1B2C3D4-E5F6-7890-ABCD-FE9876543210}.Release|Win32.Build.0 = Release|Win32
+		{FEDCBA98-7654-3210-ABCD-0123456789EF}.Debug|x64.ActiveCfg = Debug|x64
+		{FEDCBA98-7654-3210-ABCD-0123456789EF}.Debug|x64.Build.0 = Debug|x64
+		{FEDCBA98-7654-3210-ABCD-0123456789EF}.Release|x64.ActiveCfg = Release|x64
+		{FEDCBA98-7654-3210-ABCD-0123456789EF}.Release|x64.Build.0 = Release|x64
+        {FEDCBA98-7654-3210-ABCD-0123456789EF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FEDCBA98-7654-3210-ABCD-0123456789EF}.Debug|Win32.Build.0 = Debug|Win32
+		{FEDCBA98-7654-3210-ABCD-0123456789EF}.Release|Win32.ActiveCfg = Release|Win32
+		{FEDCBA98-7654-3210-ABCD-0123456789EF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABCDEF01-2345-6789-ABCD-FEDCBA987654}
+	EndGlobalSection
+    GlobalSection(ProjectDependencies) = postSolution
+        {FEDCBA98-7654-3210-ABCD-0123456789EF}.0 = {A1B2C3D4-E5F6-7890-ABCD-FE9876543210}
+    EndGlobalSection
+EndGlobal

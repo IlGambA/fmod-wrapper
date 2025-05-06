@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\gamba\Desktop\SoundProgrammingProjectGambarin\FMODDemo\main.cpp(399,18): warning C4129: 'A': unrecognized character escape sequence
+  FMODDemo.vcxproj -> C:\Users\gamba\Desktop\SoundProgrammingProjectGambarin\x64\Debug\FMODDemo.exe
+  Copying FMOD DLL to Output directory
+  0 File(s) copied
