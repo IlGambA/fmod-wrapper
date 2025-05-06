@@ -24,6 +24,9 @@ Supported file extensions are:
 - .flac
 - .aiff
 
+##  🛠️ Build & Run Instructions
+The executable can be found inside the x64/Debug folder.
+Alternatively, you can open the .sln file in Visual Studio and build the project in Debug mode.
 
 ## ▶️ Commands Manual
 
